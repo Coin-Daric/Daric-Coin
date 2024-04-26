@@ -1,2 +1,2 @@
 # Daric-Coin
-Darik digital currency was created for humanitarian work.
+TON blockchain-based Darik coin aims to institutionalize credibility, power, and trust to promote memecoins.
